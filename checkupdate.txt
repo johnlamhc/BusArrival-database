@@ -1,1 +1,1 @@
-{"version": "20191024-1224", "versionInt": 2, "downloadURL": ""}
+{"version": "20191024-1619", "versionInt": 2, "downloadURL": ""}
