@@ -1,1 +1,1 @@
-{"version": "20200528-1239", "versionInt": 95, "downloadURL": "https://github.com/johnlamhc/BusArrival-database/raw/master/data_20200528-1239.db"}
+{"version": "20200602-1244", "versionInt": 96, "downloadURL": "https://github.com/johnlamhc/BusArrival-database/raw/master/data_20200602-1244.db"}
